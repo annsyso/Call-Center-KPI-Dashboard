@@ -78,7 +78,7 @@ This project involves creating a Key Performance Indicator (KPI) Dashboard for a
 
   _Found that answer time and satisfaction rating were similar across employees, so pivoted to call volume and resolution rates._
 
--Identified which employees had the highest and lowest resolution rates.
+- Identified which employees had the highest and lowest resolution rates.
 
 **4. Finalizing the Dashboard**
 
