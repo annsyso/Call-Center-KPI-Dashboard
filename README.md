@@ -1,4 +1,6 @@
 # Tableau Data Visualization Project: Call Center KPI Dashboard
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8d2d4700-a242-4c1a-81eb-d97cf62e64db" />
+
 ### Preview the final dashboard on [Tableau Public](https://public.tableau.com/shared/52H5R57Z8?:display_count=n&:origin=viz_share_link). ✨
 
 **Overview**
